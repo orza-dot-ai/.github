@@ -6,8 +6,8 @@ We're building a next-generation Multi-Cloud Platform (MCP) designed specificall
 
 ## Our Technology Stack 💻
 
-- **Elixir** - For scalable, fault-tolerant backend services
-- **Python** - For data processing and machine learning capabilities
+- **Elixir** - For scalable, fault-tolerant backend services and talking to external world on HTTP(s), MLLP
+- **Python** - For fetching data from external world using non http(s) SFTP, RPA etc and exploratory data analysis
 - **Tailwind CSS** - For sleek, responsive interfaces
 - **Oban** - For robust background job processing
 
